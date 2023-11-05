@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(25, 25, 25);
+  color:white;
+  font-family:Arial;
+}
+
+.ss-title {
+  font-size:30px;
+  font-weight:bold;
+}
+
+.ss-icon-size {
+  max-width: 50px;        
+}
+
+.ss-button-styl {
+  height:120px;
+  width:120px;
+  background-color:transparent;
+  padding:30px;
+  margin-right:10px;
+  border: 2px solid white;
+  border-radius: 60px;
+  margin-bottom:20px;
+  cursor:pointer;
+}
+
+.ss-result {
+  font-weight:bold;
+  font-size:20px;
+}
+
+.ss-moves {
+  width:50px;
+}
+
+.ss-score {
+  margin-top:50px;
+  margin-bottom:20px;
+}
+
+.ss-reset{
+  padding:8px;
+  font-size:18px;
+  cursor:pointer;
+
+}
+
